@@ -1,4 +1,9 @@
-# Neural-Networks
+![](images/jes.png)
+
+
+
+
+![](images/belicamp.jpg)# Neural-Networks
 
 This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
 
