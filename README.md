@@ -1,4 +1,4 @@
-![](inputs/jes.png)
+![](Neural-Style-Transfer/inputs/jes.png)
 
 
 
