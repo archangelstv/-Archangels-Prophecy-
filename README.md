@@ -21,7 +21,7 @@ Articles
 
 **(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.txt)
 
-![](images7.jpg)
+![](images/4.jpg)
 
 **(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
 
@@ -31,7 +31,7 @@ Articles
 
 "# Neural-Networks" 
 
-![](images/What-is-a-Wormhole-1.jpg)
+![](images/What-is-a-Wormhole.jpg)
   
 **(7)** [We Travel Through Them](https://archangelstv.com/We Travel Through Them.txt)
 
