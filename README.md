@@ -8,7 +8,7 @@ Archangils  T V
 
 This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
 
-**(1)** [Simple Introduction to Neural Networks](https://archangelstv.com/indexword.md)
+**(1)** [Simple Introduction to Neural Networks](https://archangelstv.com/Archangel Michael Just a word.txt)
 
 **(2)** [Comprehensive Introduction to Neural Network Architecture](http://archangelstv.com/Stonehenge --It's Purpose.txt)
 
