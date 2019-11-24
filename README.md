@@ -1,9 +1,9 @@
 ![](Neural-Style-Transfer/images/logo_main.png)
 
-
-
+![](images/logo_main.png)
 
 ![](images/belicamp.jpg)
+
 Archangils  T V
 
 This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
