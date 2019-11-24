@@ -9,7 +9,7 @@ This repository contains Jupyter notebook content associated with my series on f
 
 **(1)** [Simple Introduction to Neural Networks](https://archangelstv.com/Archangel Michael Just a word.txt)
 
-**(2)** [Comprehensive Introduction to Neural Network Architecture](https://archangelstv.com/Stonehenge --It's Purpose)
+**(2)** [Comprehensive Introduction to Neural Network Architecture](https://archangelstv.com/Stonehenge --It's Purpose.txt)
 
 **(3)** [Neural Network Optimization](https://https://archangelstv.com/neural-network-optimization-7ca72d4db3e0)
 
