@@ -35,6 +35,8 @@ Articles
   
 **(7)** [We Travel Through Them](https://archangelstv.com/We Travel Through Them.txt)
 
+![](images/8.jpg)
+
 **(8)** [A Message to the People of Earth](https://archangelstv.com/A Message to the People of Earth.txt)
 
 
