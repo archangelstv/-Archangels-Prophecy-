@@ -3,7 +3,8 @@
 
 
 
-![](images/belicamp.jpg)# Neural-Networks
+![](images/belicamp.jpg)
+Archangils  T V
 
 This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
 
