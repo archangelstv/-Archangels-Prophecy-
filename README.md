@@ -11,7 +11,9 @@ Articles
 
 **(2)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge --It's Purpose.txt)
 
-**(3)** [The Belicamp-The Belicamp-The Belicamp](https://http://archangelstv.com/Belicamp.rif)
+![](images/belicamp.jpg)
+
+**(3)** [The Belicamp](https://http://archangelstv.com/Belicamp.rif)
 
 **(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.txt)
 
