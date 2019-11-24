@@ -22,7 +22,7 @@ Articles
   
 **(7)** [We Travel Through Them](https://archangelstv.com/We Travel Through Them.txt)
 
-**(7)** [A Message to the People of Earth](https://archangelstv.com/A Message to the People of Earth.txt)
+**(8)** [A Message to the People of Earth](https://archangelstv.com/A Message to the People of Earth.txt)
 
 
 
