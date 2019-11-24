@@ -20,7 +20,7 @@ Articles
 **(6)** [Advanced Topics in Neural Networks](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae)
 "# Neural-Networks" 
   
-
+**(7)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.txt)
 
 
 
