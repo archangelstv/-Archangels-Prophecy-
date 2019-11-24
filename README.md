@@ -11,9 +11,9 @@ Articles
 
 **(2)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge --It's Purpose.txt)
 
-**(3)** [The Belicamp-The Belicamp-The Belicamp](https://http://archangelstv.com/The Belicamp-The Belicamp-The Belicamp.txt)
+**(3)** [The Belicamp-The Belicamp-The Belicamp](https://http://archangelstv.com/Belicamp.rif)
 
-**(4)**  It's the Camel Not the Burro](https://archangelstv.com/ It's the Camel Not the Burro.txt)
+**(4)** [It's the Camel Not the Burro](https://archangelstv.com/ It's the Camel Not the Burro.txt)
 
 **(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
 
