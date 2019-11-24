@@ -6,7 +6,7 @@
 
 Archangils  T V
 
-This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
+Articles
 
 **(1)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.txt)
 
