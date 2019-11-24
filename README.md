@@ -11,7 +11,7 @@ This repository contains Jupyter notebook content associated with my series on f
 
 **(2)** [Comprehensive Introduction to Neural Network Architecture](https://archangelstv.com/Stonehenge --It's Purpose.txt)
 
-**(3)** [Neural Network Optimization](https://https://archangelstv.com/neural-network-optimization-7ca72d4db3e0)
+**(3)** [Neural Network Optimization](https://https://archangelstv.com/index.md)
 
 **(4)** [Simple Guide to Hyperparameter Tuning in Neural Networks](https://archangelstv.com/@matthew_stewart/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594)
 
