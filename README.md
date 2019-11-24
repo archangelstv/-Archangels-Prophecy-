@@ -1,4 +1,4 @@
-![](Neural-Style-Transfer/inputs/jes.png)
+![](Neural-Style-Transfer/images/logo_main.png)
 
 
 
