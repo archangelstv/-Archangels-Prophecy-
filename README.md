@@ -8,11 +8,11 @@ Archangils  T V
 
 This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
 
-**(1)** [Simple Introduction to Neural Networks](https://archangelstv.com/Archangel Michael Just a word.txt)
+**(1)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.txt)
 
-**(2)** [Comprehensive Introduction to Neural Network Architecture](http://archangelstv.com/Stonehenge --It's Purpose.txt)
+**(2)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge --It's Purpose.txt)
 
-**(3)** [Neural Network Optimization](https://http://archangelstv.com/indexc.md)
+**(3)** [The Belicamp-The Belicamp-The Belicamp](https://http://archangelstv.com/The Belicamp-The Belicamp-The Belicamp.txt)
 
 **(4)** [Simple Guide to Hyperparameter Tuning in Neural Networks](https://archangelstv.com/@matthew_stewart/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594)
 
