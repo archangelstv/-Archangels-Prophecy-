@@ -1,4 +1,3 @@
-![](Neural-Style-Transfer/images/logo_main.png)
 
 ![](images/logo_main.png)
 
