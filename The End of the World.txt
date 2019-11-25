@@ -1,0 +1,160 @@
+                          The End of thee World
+
+
+A "suspected explosion" near the China-North Korean border caused a small earthquake on Monday, Chinese seismology authorities said, less than an hour after news broke about Chinese President Xi Jinping's upcoming trip to Pyongyang. According to the China Earthquake Networks Center, the 1.3-magnitude earthquake with a zero-metre depth occurred at 19:38 pm (1138 GMT) in Hunchun city in northeastern Jilin province.
+
+It was unclear what caused the explosion. In the past, nuclear tests by Pyongyang have caused tremors around the northern border China shares with North Korea. But the latest incident occurred more than 200 kilometres (125 miles) from Punggye-ri, the North's nuclear site under Mount Mantap.
+
+
+Many people worold wide are experiencing hightned nervousness  and anxiety now days.
+It's no wonder. Myself, I have had dreams of the End of the world.
+ The very end, I say. Two of them each one was very frieghting and left me stunned beyond my wildnest thoughts.
+Also afterward many Angels have spoken to me about the terrible end tshat awaits us all. I have written much on this site to explain how this begins but now it has reached a point where I kno how it begins.
+
+The very start was caused by something Trump did this year.
+I was a two things which transpired in Northern Syria.
+The first was when the leader of Issis was killed passing the torch to the second in command  H is quite different and has a different agenda.
+
+The second is when Trump ordered the removal of America's troups out of the northern region of Syria. This gave Isis a cartblanch to this area. The new leadr is much more secretive and has a plan to change the tide for the long term.
+
+The strange feeling that psychic's snd others have been grasping is the cause. Something terrible is afoot.
+ 
+The dreams took place on successive nights.
+
+In the first one, I whitnessed a commercial neighborhood with which the five of last people on earth had gathered.
+The feeling I experienced was different than any one I hav ever felt. Total horror beyond anythind I have ever felt--ever.
+
+The second on was in the same place but thier number had dwindled to three, when two mor began arriving I was told that the last of them all on Earth.
+  
+This "World War Three"  starts with one "Nuclear explosion and gavitates very quickly. Worldwide.
+It ends with the end of America. Noone will ever again be allowed to say the word America again. 
+
+It will be know as the place of "Extreaam Evil" for the next year untill the radiation from the booms travel the plandt killing everyone.
+Trumps name will be changed to "Satan".
+The Republican's will be know as "Satan's Deciples".
+You don't have to believe this but you do haves to DIE.
+
+
+OFDM_Transmission 
+
+%DVB-T 2K Transmission
+%The available bandwidth is 8 MHz
+%2K is intended for mobile services
+
+clear all;
+close all;
+
+%DVB-T Parameters
+
+Tu=224e-6; %useful OFDM symbol period
+T=Tu/2048; %baseband elementary period
+G=0; %choice of 1/4, 1/8, 1/16, and 1/32
+delta=G*Tu; %guard band duration
+Ts=delta+Tu; %total OFDM symbol period
+Kmax=1705; %number of subcarriers
+Kmin=0;
+FS=4096; %IFFT/FFT length
+q=10; %carrier period to elementary period ratio
+fc=q*1/T; %carrier frequency
+Rs=4*fc; %simulation period
+t=0:1/Rs:Tu;
+
+%Data generator (A)
+
+M=Kmax+1;
+rand('state',0);
+a=-1+2*round(rand(M,1)).'+i*(-1+2*round(rand(M,1))).';
+A=length(a);
+info=zeros(FS,1);
+info(1:(A/2)) = [ a(1:(A/2)).']; %Zero padding
+info((FS-((A/2)-1)):FS) = [ a(((A/2)+1):A).'];
+
+%Subcarriers generation (B)
+
+carriers=FS.*ifft(info,FS);
+tt=0:T/2:Tu;
+
+figure(1);
+subplot(211);
+stem(tt(1:20),real(carriers(1:20)));
+subplot(212);
+stem(tt(1:20),imag(carriers(1:20)));
+
+figure(2);
+f=(2/T)*(1:(FS))/(FS);
+subplot(211);
+plot(f,abs(fft(carriers,FS))/FS);
+subplot(212);
+pwelch(carriers,[],[],[],2/T);
+
+% D/A simulation
+
+L = length(carriers);
+chips = [ carriers.';zeros((2*q)-1,L)];
+p=1/Rs:1/Rs:T/2;
+g=ones(length(p),1); %pulse shape
+
+figure(3);
+stem(p,g);
+dummy=conv(g,chips(:));
+u=[dummy(1:length(t))]; % (C)
+
+figure(4);
+subplot(211);
+plot(t(1:400),real(u(1:400)));
+subplot(212);
+plot(t(1:400),imag(u(1:400)));
+
+figure(5);
+ff=(Rs)*(1:(q*FS))/(q*FS);
+subplot(211);
+plot(ff,abs(fft(u,q*FS))/FS);
+subplot(212);
+pwelch(u,[],[],[],Rs);
+[b,a] = butter(13,1/20); %reconstruction filter
+[H,F] = FREQZ(b,a,FS,Rs);
+
+figure(6);
+plot(F,20*log10(abs(H)));
+uoft = filter(b,a,u); %baseband signal (D)
+
+figure(7);
+subplot(211);
+plot(t(80:480),real(uoft(80:480)));
+subplot(212);
+plot(t(80:480),imag(uoft(80:480)));
+
+figure(8);
+subplot(211);
+plot(ff,abs(fft(uoft,q*FS))/FS);
+subplot(212);
+pwelch(uoft,[],[],[],Rs);
+
+%Upconverter
+
+s_tilde=(uoft.').*exp(1i*2*pi*fc*t);
+s=real(s_tilde); %passband signal (E)
+
+figure(9);
+plot(t(80:480),s(80:480));
+
+figure(10);
+subplot(211);
+%plot(ff,abs(fft(((real(uoft).').*cos(2*pi*fc*t)),q*FS))/FS);
+%plot(ff,abs(fft(((imag(uoft).').*sin(2*pi*fc*t)),q*FS))/FS);
+plot(ff,abs(fft(s,q*FS))/FS);
+subplot(212);
+%pwelch(((real(uoft).').*cos(2*pi*fc*t)),[],[],[],Rs);
+%pwelch(((imag(uoft).').*sin(2*pi*fc*t)),[],[],[],Rs);
+pwelch(s,[],[],[],Rs);
+
+
+
+
+
+ssh-keygen -t rsa -b 4096 -C "archangelstv@hotmail.com"
+
+
+
+
+
