@@ -11,6 +11,8 @@ Articles
 
 **(1)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.txt)
 
+![](images/Stonehenge.jpg)
+
 **(2)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge --It's Purpose.txt)
 
 ![](images/belicamp.jpg)
