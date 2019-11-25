@@ -25,8 +25,7 @@ Articles
 
 ![](images/angels.jpg)
 
-**(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
-
+**(5)**[The World is About to Change](https://archangelstv.com/The World is About to Change.txt)
 ![](images/end6.jpg)
 
 **(6)** [The End of the World is Averted](https://archangelstv.com/The End of the World is Averted.txt)
