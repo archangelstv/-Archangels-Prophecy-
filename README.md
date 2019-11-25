@@ -9,7 +9,7 @@ Articles
 
 ![](images/10.jpg)
 
-**(1)** [Archangel Michael Just a word](https://archangelstv.com/indexword.md)
+**(1)** [Archangel Michael Just a word](https://archangelstv.com/indexword.md- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`)
 
 ![](images/stonrhenge.jpg)
 
