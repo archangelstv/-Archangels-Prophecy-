@@ -6,9 +6,8 @@ Archangils  T V
 
 Articles
 
-**(A)** [The End of thee World](https://archangelstv.com/The End of thee World.txt)
+**(A)** [The End of the World](https://archangelstv.com/The End of the World.txt)
 
-The End of thee World
 ![](images/10.jpg)
 
 **(1)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.txt)
