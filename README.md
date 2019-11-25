@@ -23,7 +23,7 @@ Articles
 
 **(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.txt)
 
-![](images/angel.png)
+![](images/angels.png)
 
 **(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
 
