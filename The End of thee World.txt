@@ -35,13 +35,3 @@ The Republican's will be know as "Satan's Deciples".
 You don't have to believe this but you do have to DIE.
 
 
-
-
-
-
-ssh-keygen -t rsa -b 4096 -C "archangelstv@hotmail.com"
-
-
-
-
-
