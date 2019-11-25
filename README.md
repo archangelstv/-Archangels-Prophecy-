@@ -23,7 +23,7 @@ Articles
 
 **(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.txt)
 
-![](images/angels.jpg)
+![](images/user3_bg.png)
 
 **(5)**[The World is About to Change](https://archangelstv.com/The World is About to Change.txt)
 ![](images/end6.jpg)
