@@ -11,7 +11,7 @@ Articles
 
 **(1)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.txt)
 
-![](images/Stonehenge.jpg)
+![](imagesstonehenge.jpg)
 
 **(2)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge --It's Purpose.txt)
 
@@ -23,7 +23,7 @@ Articles
 
 **(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.txt)
 
-![](images/angels.png)
+![](images/angels.jpg)
 
 **(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
 
