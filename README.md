@@ -29,7 +29,7 @@ Articles
 
 ![](images/end6.jpg)
 
-**(6)** [The End of the World is Averted](https://archangelstv.com/The End of the World is Averted.txt)
+**(6)** [The End of the World is Averted](https://archangelstv.com/End od the WorldHT.docx)
 
 ![](images/What-is-a-Wormhole.jpg)
   
