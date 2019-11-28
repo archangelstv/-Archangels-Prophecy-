@@ -37,4 +37,4 @@ Articles
 
 ![](images/8.jpg)
 
-**(8)** [A Message to the People of Earth](https://archangelstv.com/A Message to the People of Earth.txt)
+**(8)** [A Message to the People of Earth](https://archangelstv.com/A Message to the People of Earth.html)
