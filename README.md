@@ -9,7 +9,7 @@ Articles
 
 ![](images/10.jpg)
 
-**(1)** [Archangel Michael Just a word](https://archangelstv.com/A-Message-to-the-People-of-Earth.html)
+**(1)** [Archangel Michael Just a word](https://archangelstv.com/Archangel Michael Just a word.html)
 
 ![](images/stonrhenge.jpg)
 
