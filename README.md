@@ -21,7 +21,7 @@ Articles
 
 ![](images/camel1.jpg)
 
-**(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.txt)
+**(4)** [It's the Camel Not the Burro](https://archangelstv.com/It's the Camel Not the Burro.html)
 
 ![](images/user3_bg.png)
 
