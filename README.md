@@ -17,7 +17,7 @@ Articles
 
 ![](images/belicamp.jpg)
 
-**(3)** [The Belicamp-The Belicamp-The Belicamp](https://archangelstv.com/The Belicamp-The Belicamp-The Belicamp.txt)
+**(3)** [The Belicamp-The Belicamp-The Belicamp](https://archangelstv.com/The Belicamp.html)
 
 ![](images/camel1.jpg)
 
