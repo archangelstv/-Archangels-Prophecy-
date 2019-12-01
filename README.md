@@ -15,13 +15,13 @@ Articles
 
 **(2)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge.html)
 
-![](images/Belicamp4.jpg)
+![](images/Belicamp4.jpg) ![](images/Belicamp4.png)
 
-**(3)** [The Hourglass Is Almost Empty_files](http://archangelstv.com/The Hourglass Is Almost Empty_files.html)
+**(3)** [The Hourglass Is Almost Empty_files](http://archangelstv.com/The Hourglass Is Almost Empty.html)
 
 ![](images/belicamp.jpg)
 
-**(4)** [Prophecy of the Magician ](https://archangelstv.com/Prophecy of the Magician .html)
+**(4)** [Prophecy of the Magician ](https://archangelstv.com/Prophecy of the Magician.html)
 
 ![](images/camel1.jpg)
 
