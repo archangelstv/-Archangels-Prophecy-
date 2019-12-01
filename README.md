@@ -37,4 +37,4 @@ Articles
 
 ![](images/8.jpg)
 
-**(8)** [A Message to the People of Earth](https://archangelstv.com/A-Message-to-the-People-of-Earth.html)
+**(8)** [My name is Eligar](https://archangelstv.com/My name is Eligar.html)
