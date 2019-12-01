@@ -33,7 +33,7 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(7)** [We Travel Through Them](https://archangelstv.com/We-Travel-Through-Them.html)
+**(7)** [Wormholes](https://archangelstv.com/Wormholes.html)
 
 ![](images/8.jpg)
 
