@@ -17,7 +17,7 @@ Articles
 
 ![](images/belicamp.jpg)
 
-**(3)** [the Prophecy of the Magician ](https://archangelstv.com/The the Prophecy of the Magician .html)
+**(3)** [the Prophecy of the Magician ](https://archangelstv.com/Prophecy of the Magician .html)
 
 ![](images/camel1.jpg)
 
