@@ -38,7 +38,7 @@ Articles
 
 ![](images/end6.jpg)
 
-**(8)** [The End of the World](https://archangelstv.com/ANewSiteFile/TheEndoftheWorld/index.htm)
+**(8)** [The End of the World](https://archangelstv.com/ANewSiteFile/TheEndoftheWorld/index.html)
 
 ![](images/What-is-a-Wormhole.jpg)
   
