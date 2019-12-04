@@ -42,11 +42,11 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(9)** [Wormholes](https://archangelstv.com/ANewSiteFile/index.html)
+**(9)** [Wormholes](https://archangelstv.com/ANewSiteFile/Wormholes/index.html)
 
 ![](images/8.jpg)
 
-**(10)** [My name is Eligar](https://archangelstv.com/ANewSiteFile/index.html)
+**(10)** [My name is Eligar](https://archangelstv.com/ANewSiteFile/MynameisEligar/index.html)
 
 
 
