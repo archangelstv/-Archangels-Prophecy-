@@ -18,27 +18,27 @@ Articles
 
 ![](images/stonrhenge.jpg)
 
-**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonhenge/index.html)
+**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonehenge/index.html)
 
 ![](images/Belicamp4.jpg)    ![](images/Belicamp4.png)
 
-**(4)** [The Hourglass Is Almost Empty](http://archangelstv.com/ANewSiteFile/TheHourglassIsAlmost/index.html)
+**(4)** [The Hourglass Is Almost Empty](http://archangelstv.com/ANewSiteFile/TheHourglassIsAlmostEmpty/index.html)
 
 ![](images/belicamp.jpg)
 
-**(5)** [Prophecy of the Magician](https://archangelstv.com/ANewSiteFile/ProphecyoftheMagician/index.html)
+**(5)** [Prophecy of the Magician](https://archangelstv.com/ANewSiteFile/theProphecyoftheMagician/index.html)
 
 ![](images/camel1.jpg)
 
-**(6)** [It's the Camel Not the Burro](https://archangelstv.com/ANewSiteFile/It'stheCamelNottheBurro/index.html)
+**(6)** [It's the Camel Not the Burro](https://archangelstv.com/ANewSiteFile/ItstheCamelNottheBurro/index.html)
 
 ![](images/user3_bg.png)
 
-**(7)**[The World is About to Change](https://archangelstv.com/ANewSiteFile//index.html)
+**(7)**[The World is About to Change](https://archangelstv.com/ANewSiteFile/TheWorldisAbouttoChange/index.html)
 
 ![](images/end6.jpg)
 
-**(8)** [The End of the World](https://archangelstv.com/ANewSiteFile/index.htm)
+**(8)** [The End of the World](https://archangelstv.com/ANewSiteFile/TheEndoftheWorld/index.htm)
 
 ![](images/What-is-a-Wormhole.jpg)
   
