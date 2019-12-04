@@ -20,7 +20,7 @@ Articles
 
 **(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonehenge/index.html)
 
-![](images/Belicamp4.jpg)    ![](images/Belicamp4.png)
+![](images/Belicamp2.jpg)    ![](images/Belicamp4.png)
 
 **(4)** [The Hourglass Is Almost Empty](http://archangelstv.com/ANewSiteFile/TheHourglassIsAlmostEmpty/index.html)
 
