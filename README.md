@@ -16,7 +16,7 @@ Articles
 
 **(2)** [Old World](http://archangelstv.com/ANewSiteFile/TheOldWorld/index.html)
 
-![](images/stone11.JPG)
+![](images/stone11.jpg)
 
 **(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonehenge/index.html)
 
