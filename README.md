@@ -18,7 +18,7 @@ Articles
 
 ![](images/stonrhenge.jpg)
 
-**(3)** [Stonehenge --It's Purpose](http://archangelstv.comANewSiteFile/Stonhenge/index.html)
+**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonhenge/index.html)
 
 ![](images/Belicamp4.jpg)    ![](images/Belicamp4.png)
 
@@ -34,7 +34,7 @@ Articles
 
 ![](images/user3_bg.png)
 
-**(7)**[The World is About to Change](https://archangelstv.com/ANewSiteFile/index.html)
+**(7)**[The World is About to Change](https://archangelstv.com/ANewSiteFile//index.html)
 
 ![](images/end6.jpg)
 
