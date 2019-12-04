@@ -1,0 +1,121 @@
+.block_ {
+    display: block;
+    font-size: 1.83333em;
+    line-height: 1.08;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_1 {
+    display: block;
+    font-size: 0.58333em;
+    line-height: 1.08;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_2 {
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_3 {
+    display: block;
+    font-family: serif;
+    font-size: 0.58333em;
+    line-height: 1.08;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre2 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre3 {
+    height: 255pt;
+    line-height: 1.2;
+    width: 340pt
+    }
+.calibre4 {
+    height: 256pt;
+    line-height: 1.2;
+    width: 342pt
+    }
+.calibre5 {
+    display: block;
+    float: left;
+    height: 151pt;
+    line-height: 1.2;
+    width: 119pt
+    }
+.calibre6 {
+    display: block;
+    float: left;
+    height: 188pt;
+    line-height: 1.2;
+    width: 196pt
+    }
+.calibre7 {
+    height: 142pt;
+    line-height: 1.2;
+    width: 190pt
+    }
+.text_ {
+    font-size: 1.71429em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_1 {
+    font-size: 3.14286em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_2 {
+    font-size: 1em
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
