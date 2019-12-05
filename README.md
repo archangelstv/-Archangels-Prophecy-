@@ -8,7 +8,7 @@ Articles
 
 <video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
 
-![](images/Michael.jpg)
+![](images/Michael-the-archangel.jpg)
 
 **(1)** [Archangel Michael Just a Word](https://archangelstv.com/ANewSiteFile/ArchangelMichaelJustaword/index.html)
 
