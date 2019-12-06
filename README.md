@@ -14,7 +14,7 @@ Articles
 
 ![](images/hourglass2.jpg)
 
-**(2)** [Old World](http://archangelstv.com/ANewSiteFile/TheOldWorld/index.html)
+**(2)** [Old World](http://archangelstv.com/New Site/TheOld World.html)
 
 ![](images/stoneheng.jpg)
 
@@ -34,7 +34,7 @@ Articles
 
 ![](images/user3_bg.png)
 
-**(7)**[The World is About to Change](https://archangelstv.com/ANewSiteFile/TheWorldisAbouttoChange/index.html)
+**(7)**[The World is About to Change](https://archangelstv.com/ANewSiteFile/TheWorldisAbouttoChange.html)
 
 ![](images/end6.jpg)
 
@@ -42,11 +42,11 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(9)** [Wormholes](https://archangelstv.com/ANewSiteFile/Wormholes/index.html)
+**(9)** [Wormholes](https://archangelstv.com/New Site/Wormholes.html)
 
 ![](images/8.jpg)
 
-**(10)** [My name is Eligar](https://archangelstv.com/ANewSiteFile/MynameisEligar/index.html)
+**(10)** [My name is Eligar](https://archangelstv.com/New Site/MynameisEligar/index.html)
 
 
 
