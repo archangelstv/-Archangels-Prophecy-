@@ -34,7 +34,7 @@ Articles
 
 ![](images/user3_bg.png)
 
-**(7)**[The World is About to Change](https://archangelstv.com/NEW Site/TheWorldisAbouttoChange.html)
+**(7)**[The World is About to Change](https://archangelstv.com/NEW Site/The World is About to Change.html)
 
 ![](images/end6.jpg)
 
