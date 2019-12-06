@@ -10,7 +10,7 @@ Articles
 
 ![](images/stmich.jpg)
 
-**(1)** [Archangel Michael Just a Word](https://archangelstv.com/ANewSiteFile/ArchangelMichaelJustaword/index.html)
+**(1)** [Archangel Michael Just a Word](https://archangelstv.com/NEW Site/Archangel Michael just a word.html)
 
 ![](images/hourglass2.jpg)
 
@@ -30,7 +30,7 @@ Articles
 
 ![](images/camel1.jpg)
 
-**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NEW Site/ItstheCamelNottheBurro.html)
+**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NEW Site/It's the Camel Not the Burro.html)
 
 ![](images/user3_bg.png)
 
@@ -42,7 +42,7 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(9)** [Wormholes](https://archangelstv.com/New Site/Wormholes.html)
+**(9)** [Wormholes](https://archangelstv.com/New Site/Wormholes/index.html)
 
 ![](images/8.jpg)
 
