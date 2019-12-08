@@ -10,7 +10,7 @@ Articles
 
 ![](images/stmich.jpg)
 
-**(1)** [Archangel Michael Just a Word](https://archangelstv.com/NEW Site/Archangel Michael just a word.html)
+**(1)** [Archangel Michael Just a Word](https://archangelstv.com/NewSite/Archangel Michael just a word.html)
 
 ![](images/hourglass2.jpg)
 
