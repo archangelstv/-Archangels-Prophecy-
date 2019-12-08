@@ -42,7 +42,7 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(9)** [Wormholes](https://archangelstv.com/ANewSiteFile/New Site/Wormholes/index.html)
+**(9)** [Wormholes](https://archangelstv.com/ANewSiteFile/NewSite/Wormholes/index.html)
 
 ![](images/8.jpg)
 
