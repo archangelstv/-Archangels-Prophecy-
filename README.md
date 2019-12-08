@@ -14,7 +14,7 @@ Articles
 
 ![](images/hourglass2.jpg)
 
-**(2)** [Old World](https://archangelstv.com/NEW Site/TheOld World.html)
+**(2)** [Old World](https://archangelstv.com/NewSite/TheOld World.html)
 
 ![](images/stoneheng.jpg)
 
@@ -30,7 +30,7 @@ Articles
 
 ![](images/camel1.jpg)
 
-**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NEW Site/It's the Camel Not the Burro.html)
+**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NewSite/It's the Camel Not the Burro.html)
 
 ![](images/user3_bg.png)
 
