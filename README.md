@@ -1,6 +1,4 @@
 
-
-**Archangels--I see them***They speak to me
 ![](images/logo_main.png)
 
 
