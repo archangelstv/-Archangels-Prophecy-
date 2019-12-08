@@ -18,7 +18,7 @@ Articles
 
 ![](images/stoneheng.jpg)
 
-**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonehenge/index.html)
+**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge/index.html)
 
 ![](images/Belicamp4.jpg)    ![](images/Belicamp4.jpg)
 
