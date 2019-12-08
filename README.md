@@ -1,52 +1,16 @@
+# Neural-Networks
 
-![](images/logo_main.png)
+This repository contains Jupyter notebook content associated with my series on fully connected neural networks. The current articles in this series are as follows:
 
+**(1)** [Simple Introduction to Neural Networks](https://towardsdatascience.com/simple-introduction-to-neural-networks-ac1d7c3d7a2c)
 
-Archangils  T V
+**(2)** [Comprehensive Introduction to Neural Network Architecture](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98)
 
-Articles
+**(3)** [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0)
 
-<video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
+**(4)** [Simple Guide to Hyperparameter Tuning in Neural Networks](https://medium.com/@matthew_stewart/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594)
 
-![](images/stmich.jpg)
+**(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
 
-**(1)** [Archangel Michael Just a Word](https://archangelstv.com/NewSite/Archangel Michael Just a word.html)
-
-![](images/hourglass2.jpg)
-
-**(2)** [Old World](https://archangelstv.com/NewSite/TheOld World.html)
-
-![](images/stoneheng.jpg)
-
-**(3)** [Stonehenge --It's Purpose](https://archangelstv.com/ANewSiteFile/Stonehenge/index.html)
-
-![](images/Belicamp4.jpg)    ![](images/Belicamp4.jpg)
-
-**(4)** [The Hourglass Is Almost Empty](https://archangelstv.com/ANewSiteFile/TheHourglassIsAlmostEmpty/index.html)
-
-![](images/belicamp.jpg)
-
-**(5)** [Prophecy of the Magician](https://archangelstv.com/ANewSiteFile/theProphecyoftheMagician/index.html)
-
-![](images/camel1.jpg)
-
-**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NewSite/It's the Camel Not the Burro.html)
-
-![](images/user3_bg.png)
-
-**(7)** [The World is About to Change](https://archangelstv.com/NEW Site/The World is About to Change.html)
-
-![](images/end6.jpg)
-
-**(8)** [The End of the World](https://archangelstv.com/ANewSiteFile/TheEndoftheWorld/index.html)
-
-![](images/What-is-a-Wormhole.jpg)
-  
-**(9)** [Wormholes](https://archangelstv.com/ANewSiteFile/NewSite/Wormholes/index.html)
-
-![](images/8.jpg)
-
-**(10)** [My name is Eligar](https://archangelstv.com/ANewSiteFile/New Site/MynameisEligar/index.html)
-
-
-
+**(6)** [Advanced Topics in Neural Networks](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae)
+"# Neural-Networks" 
