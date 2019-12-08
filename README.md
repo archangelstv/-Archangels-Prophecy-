@@ -10,7 +10,7 @@ Articles
 
 ![](images/stmich.jpg)
 
-**(1)** [Archangel Michael Just a Word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
+**(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
 ![](images/hourglass2.jpg)
 
@@ -42,7 +42,7 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(9)** [Wormholes](http://archangelstv.com/NewSite/Wormholes/index.html)
+**(9)** [Wormholes](http://archangelstv.com/ANewSiteFile/Wormholes/index.html)
 
 ![](images/8.jpg)
 
