@@ -1,177 +1,54 @@
 
 
 **Archangels--I see them***They speak to me
-
-![](images/angel.jpg)![](images/logo_main.png)![](images/angel.jpg)
-
-
-    <?
-    include(â€œsettings.phpâ€);
-    $stream=$_GET[â€˜nâ€™];
-    ?>
-    <object id=â€playerâ€ classid=â€clsid:D27CDB6E-AE6D-11cf-96B8-444553540000â€³ name=â€playerâ€ width=â€328â€³ height=â€260â€³>
-    <param name=â€movieâ€ value=â€player.swfâ€ />
-    <param name=â€allowfullscreenâ€ value=â€trueâ€ />
-    <param name=â€allowscriptaccessâ€ value=â€alwaysâ€ />
-    <param name=â€flashvarsâ€ value=â€file=<?=urlencode($stream)?>.flv&streamer=<?=urlencode($rtmp_server)?>&autostart=trueâ€ />
-    <object type=â€application/x-shockwave-flashâ€ data=â€player.swfâ€ width=â€328â€³ height=â€260â€³>
-    <param name=â€movieâ€ value=â€player.swfâ€ />
-    <param name=â€allowfullscreenâ€ value=â€trueâ€ />
-    <param name=â€allowscriptaccessâ€ value=â€alwaysâ€ />
-    <param name=â€flashvarsâ€ value=â€file=<?=urlencode($stream)?>.flv&streamer=<?=urlencode($rtmp_server)?>&autostart=trueâ€ />
-    <p><a href=â€http://get.adobe.com/flashplayerâ€>Get Flash</a> to see this player.</p>
-    </object>
-    </object> 
+![](images/logo_main.png)
 
 
+Archangils  T V
 
+Articles
 
-           Archangel Michael Just a word
-There are many more Angels than people. We are Watchers, we don't interfere. There are a great many of us all over the Earth.
-The wings of the small ones are much larger than depicted. We exist in many realms at the same time.
+<video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
 
-The humans are only one of many species here on this planet. Many are bad and attack the people here.
-This world is destine for death. It is the only way to destroy the evil here. 
-The Angels will just leave when this world ends. If the humans can't leave then they also will die. 
-We can't transport their bodies, there is simply no way. Star Gates or Time Travel can only transport spirits not the bodies of this dimension. 
+![](images/stmich.jpg)
 
+**(1)** [Archangel Michael Just a Word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
+![](images/hourglass2.jpg)
 
+**(2)** [Old World](http://archangelstv.com/NEW Site/TheOld World.html)
 
-![](images/jes.png
+![](images/stoneheng.jpg)
 
+**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/ANewSiteFile/Stonehenge/index.html)
 
+![](images/Belicamp4.jpg)    ![](images/Belicamp4.jpg)
 
+**(4)** [The Hourglass Is Almost Empty](http://archangelstv.com/ANewSiteFile/TheHourglassIsAlmostEmpty/index.html)
 
 ![](images/belicamp.jpg)
 
-                           The Belicamp*The Words of Archangel Michael 
-
-It is his time
-No one can stop him
-
- The Belicamp-The Belicamp-The Belicamp
-
-I smell death
-And so it is for this is yours
-This sign is given
-
-As it is for this land
-So it is for this world
-
-The pieces are placed together
-For the prophecy to begin
-The terrible time is upon us
-
-Woe to the inhabitant of this land
-Woe to to those who live in this world
-There is no escape
-
-God the Father has made his play
-God has chosen his way
-
-Mankind has found his end
-
-Only the Prophecy of the Magician can deliver the few
-He comes by the light and the sky
-And it is so saith the Lord
-
-Call on the Father, Call on the Angels
-Your cries fall on death ears
-For this is the land of the dead
-
-And it is so saith the Lord
-For a great death comes from the sky
-The Belicamp, the Belicamp, the Belicamp
-
-Pray for the Lord and the Magician
-For the Belicamp encircles them
-
-The Father has sent the Belicamp to stop them
-The Belicamp is the Demon of the Father
-
-We walk along the river
-I walk ahead and and encounter the Belicamp
-
-He stoops close to the ground and eats
-New life has sprung from the ground
-
-I am no more than twelve feet away
-He eates next to the river and paids me no mind
-
-I hear the Hourglass is almost empty
-
+**(5)** [Prophecy of the Magician](https://archangelstv.com/ANewSiteFile/theProphecyoftheMagician/index.html)
 
 ![](images/camel1.jpg)
 
-              **It's the Camel Not the Burro**
+**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NEW Site/It's the Camel Not the Burro.html)
 
-It's the camel not the burro
-They take the burro, the camel walks away
-The meaning is obscured, but true
+![](images/user3_bg.png)
 
-Israel and Trump take their turn
-This sets the stage
+**(7)** [The World is About to Change](https://archangelstv.com/NEW Site/The World is About to Change.html)
 
-He takes it to a new location
-Where it can do the most good
-One leader is killed, the other get's his way
+![](images/end6.jpg)
 
-He looks closer on the few
+**(8)** [The End of the World](https://archangelstv.com/ANewSiteFile/TheEndoftheWorld/index.html)
 
-His name is Isis, his view is on one thing
+![](images/What-is-a-Wormhole.jpg)
+  
+**(9)** [Wormholes](http://archangelstv.com/ANewSiteFile/NewSite/Wormholes/index.html)
 
-He pays much for it
+![](images/8.jpg)
 
-It's on the Camel
-No one knows it's there
+**(10)** [My name is Eligar](http://archangelstv.com/ANewSiteFile/New Site/MynameisEligar/index.html)
 
-Then when the time is right
-
-Israel finds their demise
-
-America blames the wrong one
-
-Then Retribution
-
-No one on our side can believe the Americans are so dumb
-
-They are either dead or greatly saddened 
-
-They are placed in the Sun
-
-There is no forgiveness
-
-The New World is born
-
-
-UPDATE
-
-9:47 EST 10/27/2019 Trump announces Isis leader Al-baghdadi killed
-
-![](images/angels.jpg)
-
-                                  ** A Message to the People of Earth**
-                                       My name is Eligar
-                                    A little known Angel of God
-
-The Republican's in your world are not from here. They're from a world at the edge of the Galaxy. They're able to jump from star to star like frogs jumping about the comos. They call themselves Grey's but they're really Onanss, to hide their identity.from us, but we have watched themthrought time.They're in many other worlds as well reaking havoc. 
-
-     Many are fighting them also. They have found a way by taking ypur bodies aboard their ships and using their knowledge to enter your bodies at birth, pushing your human souls aside at the last minute, taking control of that body. There many of these in the US and now have control partially. They do have a big problem they can't overcome.
-
-     When they die, leave the body, their soul mutates. So they can't re-enter another of your bodies and when they try to go back to their home planet, they're not accepted. Most are killed while other's escape into the Comos.
-
-     Your world has many visitors coming and going all the time of different types.Some are in your relm while others are in mine. Some can go from one to the other. None ar quit lkie Humans, while others seem to fit in easily but are easily diernable like the Gay people there. They go to a seperate place when they die. Their representatives visit the sick and dying to mark them for their place after death.
-
-     Earth is much like in the movie Star Wars. The war is still ongoing with the Greys and their symbeonise the Republicans. They're still trying to take over your world although they're using their earth bodies, the Repulicans, to do it mostly now. 
-
-     Theyre not as smart as you would think. Everything they have is stolen, even their ships. They can't fly them very well, that's why they crash them, mostly into the sea. The American Nilitary hides them but are to stupit to fly them!
-People of the future way this country will die because of a global Nuclear War.
-
-That's too bad. Your leader and Military will be to blame. There's nothing that can be done I know you have tries to alert them of the danger but no one will listen. This country and another accross the sea will be the first two but others will follow as the Nuclear War spreads accross the globe.
-
-     We wish you luck in your endevers in the future.I know things are difficult. I do hope this sector of the Comos doesn't explode as predicted in the future because of what happens here.
-
-The war here must be an incredible one to do that. There are only a few Humans on other worlds not enough to resead another planet. If you can find a way to stop this insane President from starting this War, everyone would be greatly relieved. Things are bad enough. Like I say, I wish you well----goodbuy.
 
 
