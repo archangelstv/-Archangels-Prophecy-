@@ -30,11 +30,11 @@ Articles
 
 ![](images/camel1.jpg)
 
-**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NEW Site/It's the Camel Not the Burro.html)
+**(6)** [It's the Camel Not the Burro](https://archangelstv.com/NewSite/It's the Camel Not the Burro.html)
 
 ![](images/user3_bg.png)
 
-**(7)** [The World is About to Change](https://archangelstv.com/NEW Site/The World is About to Change.html)
+**(7)** [The World is About to Change](https://archangelstv.com/NewSite/The World is About to Change.html)
 
 ![](images/end6.jpg)
 
@@ -42,11 +42,11 @@ Articles
 
 ![](images/What-is-a-Wormhole.jpg)
   
-**(9)** [Wormholes](http://archangelstv.com/ANewSiteFile/NewSite/Wormholes/index.html)
+**(9)** [Wormholes](http://archangelstv.com/NewSite/Wormholes/index.html)
 
 ![](images/8.jpg)
 
-**(10)** [My name is Eligar](http://archangelstv.com/ANewSiteFile/New Site/MynameisEligar/index.html)
+**(10)** [My name is Eligar](http://archangelstv.com/NewSite/MynameisEligar/index.html)
 
 
 
