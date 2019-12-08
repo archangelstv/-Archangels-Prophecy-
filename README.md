@@ -46,7 +46,7 @@ Articles
 
 ![](images/8.jpg)
 
-**(10)** [My name is Eligar](http://archangelstv.com/NewSite/MynameisEligar/index.html)
+**(10)** [My name is Eligar](http://archangelstv.com/MynameisEligar.html)
 
 
 
