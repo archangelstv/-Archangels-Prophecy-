@@ -8,6 +8,16 @@ Articles
 
 <video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
 
+<video src="http://kidsbooksandfun.com/Videos/Untitled project.vlc" width="320" height="200" controls preload></video>
+
+<object width="400" height="224" >
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="movie" value="https://www.kidsbooksandfun.com/Videos/racoon.mp4" />
+<embed src="https://www.kidsbooksandfun.com/Video/racoon.mp4" type="application/x-shockwave-flash"
+allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
+</object>
+
 ![](images/stmich.jpg)
 
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
