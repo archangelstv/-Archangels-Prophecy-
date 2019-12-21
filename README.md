@@ -10,13 +10,13 @@ Articles
 
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
-<video src="http://kidsbooksandfun.com/Videos/Untitled project.vlc" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 <object width="400" height="224" >
 <param name="allowfullscreen" value="true" />
 <param name="allowscriptaccess" value="always" />
-<param name="movie" value="https://www.kidsbooksandfun.com/Videos/racoon.mp4" />
-<embed src="https://www.kidsbooksandfun.com/Video/racoon.mp4" type="application/x-shockwave-flash"
+<param name="movie" value="https://www.kidsbooksandfun.com/Videos/cookiemonster.avi" />
+<embed src="https://www.kidsbooksandfun.com/Video/cookiemonster.avi type="application/x-shockwave-flash"
 allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 </object>
 
