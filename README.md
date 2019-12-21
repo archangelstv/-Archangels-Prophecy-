@@ -30,7 +30,7 @@ allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 
 ![](images/stoneheng.jpg)
 
-**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonehenge/index.html)
+**(3)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonrhenge/index.html)
 
 ![](images/Belicamp4.jpg)    ![](images/Belicamp4.jpg)
 
