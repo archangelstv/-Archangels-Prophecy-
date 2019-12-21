@@ -8,7 +8,7 @@ Articles
 
 
 
-<video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 <video src="http://kidsbooksandfun.com/Videos/Untitled project.vlc" width="320" height="200" controls preload></video>
 
