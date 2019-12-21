@@ -6,20 +6,7 @@ Archangils  T V
 
 Articles
 
-<html>
-Streaming Service: Custom
-Server: rtmp://<70.127.124.114>
-Play Path/Stream Key: test​
-	
-var evtName = "obsStreamingStarted";
-if (document.createEvent) {
-  event = document.createEvent("HTMLEvents");
-  event.initEvent(evtName, true, true);
-} else {
-  event = document.createEventObject();
-  event.eventType = evtName;
-}
-</html>
+
 
 <video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
 
