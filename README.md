@@ -28,7 +28,7 @@ allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 
 **(2)** [Old World](http://archangelstv.com/NewSite/TheOld World.html)
 
-![](images/stoneheng.jpg)
+![](images/stonrheng.jpg)
 
 **(3)** [Stonehenge --It's Purpose](http://archangelstv.com/Stonrhenge/index.html)
 
