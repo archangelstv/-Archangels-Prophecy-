@@ -24,7 +24,7 @@ Articles
 
 ![](images/proxi.jpg)
 
-**(1)** [proxima](http://archangelstv.com/NewSite/proxima.html)
+**(A)** [proxima](http://archangelstv.com/NewSite/proxima.html)
 
 
 ![](images/stone2.jpg)
