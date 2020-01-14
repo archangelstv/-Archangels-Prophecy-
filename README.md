@@ -22,7 +22,7 @@ Articles
 
 **(2)** [Old World](http://archangelstv.com/NewSite/TheOld World.html)
 
-![](images/proxi.jpg)
+![](images/proxmi.jpg)
 
 **(A)** [proxima](http://archangelstv.com/NewSite/Proxima.html)
 
