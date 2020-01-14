@@ -29,7 +29,7 @@ Articles
 
 ![](images/stone2.jpg)
 
-**(3)** [Stonehenge](http://archangelstv.com/NewSite/stonehenge.html)
+**(3)** [Stonehenge](http://archangelstv.com/NewSite/index.html)
 
 ![](images/Belicamp4.jpg)    
 
