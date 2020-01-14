@@ -27,7 +27,7 @@ Articles
 **(A)** [proxima](http://archangelstv.com/NewSite/Proxima.html)
 
 
-![](images/stone2.jpg)
+![](images/stonehenge11.jpg)
 
 **(3)** [Stonehenge](http://archangelstv.com/NewSite/Stoneheng/index.html)
 
