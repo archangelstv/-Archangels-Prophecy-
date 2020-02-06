@@ -27,6 +27,8 @@ Articles
 **(A)** [proxima](http://archangelstv.com/NewSite/Proxima.html)
 
 
+**(B)** [Trump Revels He is Satan](http://archangelstv.com/NewSite/Satan/Satan.html)
+
 ![](images/stone11.jpg)
 
 **(3)** [Stonehenge](http://archangelstv.com/NewSite/Stoneheng/index.html)
