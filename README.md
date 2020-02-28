@@ -24,7 +24,7 @@ Articles
 
 ![](images/warren1.jpg)
 
-**(2)** [Archangels Choise](http://archangelstv.com/NewSite/warren.html)
+**(2)** [Archangels Choise](http://archangelstv.com/NewSite/Warren.html)
 
 ![](images/user3_bg.png)
 
