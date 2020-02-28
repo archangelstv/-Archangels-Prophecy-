@@ -19,7 +19,12 @@ Articles
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
 ![](images/hourglass2.jpg)
+**(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
+![](images/warren1.jpg)
+**(2)** [Old World](http://archangelstv.com/NewSite/warren.html.html)
+
+![](images/user3.jpg)
 **(2)** [Old World](http://archangelstv.com/NewSite/TheOld World.html)
 
 ![](images/proxmi.jpg)
