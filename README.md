@@ -26,8 +26,9 @@ Articles
 
 **(2)** [Old World](http://archangelstv.com/NewSite/warren/warren.html.html)
 
-![](images/user3.jpg)
-**(2)** [Old World](http://archangelstv.com/NewSite/TheOld World.html)
+![](images/user3_bg.jpg)
+
+**(3)** [Old World](http://archangelstv.com/NewSite/TheOld World.html)
 
 ![](images/proxmi.jpg)
 
