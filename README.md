@@ -18,7 +18,11 @@ Articles
 
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
+![](images/biden6.jpg)
+
 ![](images/hourglass2.jpg)
+
+**(4)** [bomb](http://archangelstv.com/biden.html)
 
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
