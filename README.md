@@ -20,9 +20,9 @@ Articles
 
 ![](images/biden6.jpg)
 
-![](images/hourglass2.jpg)
+**(B)** [Biden](http://archangelstv.com/Biden.html)
 
-**(4)** [bomb](http://archangelstv.com/biden.html)
+![](images/hourglass2.jpg)
 
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
