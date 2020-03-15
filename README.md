@@ -13,14 +13,14 @@ Articles
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 
-![](images/lion.gif)
+![](images/lion.Gif)
 
 
 ![](images/stmich.jpg)
 
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
-![](images/biden6.jpg)
+![](images/biden.jpg)
 
 **(B)** [Biden](http://archangelstv.com/Biden.html)
 
