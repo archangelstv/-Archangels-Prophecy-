@@ -15,7 +15,7 @@ Articles
 
 ![](images/lion9.jpg)
 
-**** [Archangels Choise](http://archangelstv.com/Covie-19/Covie-19.html
+**** [Covie-19](http://archangelstv.com/Covie-19/Covie-19.html
 
 
 ![](images/stmich.jpg)
