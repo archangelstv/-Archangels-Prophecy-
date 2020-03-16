@@ -13,7 +13,7 @@ Articles
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 
-![](images/lion8.jpg)
+![](images/lion9.jpg)
 
 
 ![](images/stmich.jpg)
