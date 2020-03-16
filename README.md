@@ -20,7 +20,7 @@ Articles
 
 **(1)** [Archangel Michael Just a word](http://archangelstv.com/NewSite/Archangel Michael Just a word.html)
 
-![](images/biden.jpg)
+![](images/biden5.jpg)
 
 **(B)** [Biden](http://archangelstv.com/Biden.html)
 
