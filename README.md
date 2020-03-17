@@ -15,7 +15,7 @@ Articles
 
 ![](images/lion9.jpg)
 
-**A** [Covie-19](http://archangelstv.com/NewSite/Covid-19/Covid-19.html
+**A** [Covid-19](http://archangelstv.com/NewSite/Covid-19/Covid-19.html
 
 
 ![](images/stmich.jpg)
