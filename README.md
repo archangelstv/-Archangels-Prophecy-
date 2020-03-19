@@ -24,7 +24,7 @@ Articles
 
 ![](images/biden5.jpg)
 
-**(B)** [Biden](http://archangelstv.com/Biden.html)
+**(B)** [Biden](http://archangelstv.com/NewSite/Biden.html)
 
 ![](images/hourglass2.jpg)
 
