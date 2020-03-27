@@ -17,6 +17,10 @@ Articles
 
 **(C)** [Covid-19](http://archangelstv.com/Covid-19/Covie-19.html)
 
+![](images/pale horseman.jpg)
+
+**(C)** Pale Horseman](http://archangelstv.com/Pale Horseman.html)
+
 
 ![](images/stmich.jpg)
 
