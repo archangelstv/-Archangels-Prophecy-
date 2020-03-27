@@ -19,7 +19,7 @@ Articles
 
 ![](images/pale horseman.jpg)
 
-**(H)** [Pale Horseman](http://archangelstv.com/Pale Horseman.html)
+**(H)** [Pale Horseman](http://archangelstv.com/NewSite/Pale Horseman.html)
 
 
 ![](images/stmich.jpg)
