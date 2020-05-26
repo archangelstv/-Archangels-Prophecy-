@@ -13,7 +13,7 @@ Articles
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 
-![](images/birthrate.jpg)
+![](images/muertos-child.jpg)
 
 **(BR)** [Birth Rate](http://archangelstv.com/Birth rate Lowest in 35 Years/Birth rate Lowest in 35 Years.html)
 
