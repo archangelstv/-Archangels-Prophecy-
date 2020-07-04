@@ -12,7 +12,8 @@ Articles
 
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
-![](images/muertos-child.jpg)
+![](images
+79264e93b8f99c6196f8eecab96a2)
 **(H)** [Trump Dies Soon](http://archangelstv.com/trumpcolor.html)
 
 ![](images/muertos-child.jpg)
