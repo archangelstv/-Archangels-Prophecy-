@@ -14,7 +14,7 @@ Articles
 
 ![](images/trumpdead.png)
 
-**(H)** [Trump Dies Soon](http://archangelstv.com/trumpcolor.html)
+**()** [Trump Dies Soon](http://archangelstv.com/trumpcolor.html)
 
 ![](images/muertos-child.jpg)
 
