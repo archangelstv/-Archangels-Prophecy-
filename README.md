@@ -14,11 +14,11 @@ Articles
 
 ![](images/trumpdead.png)
 
-**()** [Trump Dies Soon](http://archangelstv.com/trumpcolor.html)
+**** [Trump Dies Soon](http://archangelstv.com/trumpcolor.html)
 
 ![](images/muertos-child.jpg)
 
-**(BR)** [Birth Rate](http://archangelstv.com/Birth rate Lowest in 35 Years/Birth rate Lowest in 35 Years.html)
+**** [Birth Rate](http://archangelstv.com/Birth rate Lowest in 35 Years/Birth rate Lowest in 35 Years.html)
 
 ![](images/lion9.jpg)
 
