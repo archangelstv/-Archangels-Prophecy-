@@ -13,7 +13,9 @@ Articles
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 
+![](images/trumpdead.png)
 
+**** [Trump Dies](http://archangelstv.com//trumpcolor.html)
 
 ![](images/muertos-child.jpg)
 
