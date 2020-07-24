@@ -12,6 +12,9 @@ Articles
 
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
+![](images/yosemity.jpg)
+
+**** [Something Odd](http://archangelstv.com/Something Odd.html)
 
 ![](images/trumpdead.png)
 
