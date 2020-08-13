@@ -13,7 +13,7 @@ Articles
 <video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 
-![](images/SATAN.jpg)
+![](images/trump.jpg)
 
 **** [I Am from the Future](http://archangelstv.com/NEW Site/I Am from the Future.html)
 
