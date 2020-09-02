@@ -7,9 +7,6 @@ Archangels  T V
 Articles
 
 
-
-
-
 ![](images/trumpp.jpg) ![](images/trumppp.jpg)  ![](images/trumppp1.jpg)
 
 donald Trump's Day of Death*** September 16 2020 ***
