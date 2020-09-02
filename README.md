@@ -11,7 +11,7 @@ Articles
 
 Donald Trump's Day of Death*** September 16 2020 ***
 
-![](images/western.jpg)  ![](images/west1.jpg)
+![](images/western.jpg)  ![](images/west2.jpg)
 
 September Brings Death by the Millions via Covid19 To Mid-Western Part of Americia
 
