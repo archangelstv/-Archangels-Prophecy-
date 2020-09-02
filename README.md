@@ -9,7 +9,7 @@ Articles
 
 ![](images/trumpp.jpg) ![](images/trumppp.jpg)  ![](images/trumppp1.jpg)
 
-donald Trump's Day of Death*** September 16 2020 ***
+Donald Trump's Day of Death*** September 16 2020 ***
 
 ![](images/western.jpg)  ![](images/west.jpg)
 
