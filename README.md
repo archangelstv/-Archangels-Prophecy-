@@ -8,14 +8,13 @@ Articles
 
 
 
-<video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
-<video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
 
 ![](images/trumpp.jpg) ![](images/trumppp.jpg)  ![](images/trumppp1.jpg)
 
 donald Trump's Day of Death*** September 16 2020 ***
 
+September Brings Death by the Millions via Covid19 To Mid-Western Part of Americia
 
 ![](images/trump.jpg)
 
