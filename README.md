@@ -17,7 +17,6 @@ Donald Trump's Day of Death*** September 16 2020 ***
 
 ![](images/trump.jpg)
 
-**** [I Am from the Future](http://archangelstv.com/NEW Site/I Am from the Future/I Am from the Future.html)
 
 ![](images/yosemity.jpg)
 
