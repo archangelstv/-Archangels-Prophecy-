@@ -13,14 +13,14 @@ Donald Trump's Day of Death*** September 16 2020 ***
 
 ![](images/western.jpg)  ![](images/west2.jpg)
 The death rate of the virus starts to climb soon until it reaches the millions in America and much of the world.
-
+The western U.S. is particurly effected. 
 
 ![](images/trump.jpg)
 
 
 ![](images/yosemity.jpg)
 
-**** [Something Odd](http://archangelstv.com/Something Odd.html)
+**** [Something Odd](http://archangelstv.com/Something Odd.html)***
 
 ![](images/trumpdead.png)
 
