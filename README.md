@@ -12,7 +12,7 @@ Articles
 Donald Trump's Day of Death*** September 16 2020 ***
 
 ![](images/western.jpg)  ![](images/west2.jpg)
-
+The death rate of the virus starts to climb soon until it reaches the millions in America and much of the world.
 
 
 ![](images/trump.jpg)
