@@ -9,9 +9,9 @@ Articles
 
 ![](images/trumpp.jpg) ![](images/trumppp1.jpg)
 
-Donald Trump's Day of Death*** September 16 2020 *** UPDATE***
-AS YOU SEE TRUMP DIDNOT DIE ***Don't Always trust the Angels, 
-There may be Devils masqurading as one of them*** 
+Donald Trump's Day of Death*** September 16 2020 *** UPDATE ***
+AS YOU SEE TRUMP DIDNOT DIE *** Don't Always trust the Angels, 
+There may be Devils masqurading as one of them *** 
 
 ![](images/western.jpg)  ![](images/west2.jpg)
 The death rate of the virus starts to climb soon until it reaches the millions in America and much of the world.
