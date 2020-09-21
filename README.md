@@ -101,5 +101,5 @@ The western U.S. is particurly effected.
 
 **** [My name is Eligar](https://archangelstv.com/NewSite/My name is Eligar.html)
 
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
