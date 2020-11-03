@@ -18,16 +18,13 @@ There may be Devils masqurading as one of them *** I did hear
 The death rate of the virus starts to climb soon until it reaches the millions in America and much of the world.
 The western U.S. is particurly effected. 
 
-![](images/trump.jpg)
+
 
 
 ![](images/yosemity.jpg)
 
 **** [Something Odd](http://archangelstv.com/Something Odd.html)***
 
-![](images/trumpdead.png)
-
-**** [Trump Dies](http://archangelstv.com//trumpcolor.html)
 
 ![](images/muertos-child.jpg)
 
