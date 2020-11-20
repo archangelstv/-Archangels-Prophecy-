@@ -37,7 +37,7 @@ The western U.S. is particurly effected.
 
 COVID-19 Vaccine
 
-The new COVID-19 vaccine given to those to inhibate the virus will cause Sterilty after a time.
+The new COVID-19 vaccine given to those to inhibate the virus will cause Sterilty after a time. This I was told by someone from the future.
 
 ![](images/lion9.jpg)
 
