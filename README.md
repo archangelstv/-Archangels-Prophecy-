@@ -35,6 +35,9 @@ The western U.S. is particurly effected.
 
 **** [Birth Rate](http://archangelstv.com/Birth rate Lowest in 35 Years/Birth rate Lowest in 35 Years.html)
 
+COVID-19 Vaccine
+The new COVID-19 vaccine given to those to inhibate the virus will cause Sterilty after a time.
+
 ![](images/lion9.jpg)
 
 **** [Covid-19](http://archangelstv.com/Covid-19/Covie-19.html)
