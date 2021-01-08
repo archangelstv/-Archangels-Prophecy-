@@ -11,7 +11,7 @@ January 7, 2021
 They tried to explain to me what was going to happen but I simply did not understand what they ment and they thought the 
 Republicans would win. This would have brought civil war and the end of America. This is what I was told. 
 But as you see the Angels fought on the side of the Democrats.
-Now the Angels make war on the Republicans. They use the weapon they have been using, the Corad 19 virus.
+Now the Angels make war on the Republicans. They use the weapon they have been using, the Covid 19 virus.
 The Cavvines only work for a short while then the Corvid mutates bringing death and suffering to the Repub;ican Party 
 and all it's members a lttle at a time. 
      15 million will die by the end of this year.
