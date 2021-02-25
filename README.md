@@ -6,6 +6,15 @@ Archangels  T V
 
 Articles
 
+
+Jesus has already returned to take the Rightous to the NEW EARTH.
+He will revel Himself when He is ready.
+For now  He watches This world die.
+
+The Government of America is very afraid as are most of it's people. 
+This is because they know the truth. as are most of the people here.
+
+
 January 7, 2021
 
 They tried to explain to me what was going to happen but I simply did not understand what they ment and they thought the 
