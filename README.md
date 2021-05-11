@@ -6,6 +6,10 @@ Archangels  T V
 
 Articles
 
+Death Calls all Republicans To Their Final Resting Place
+![](images/trumpp.jpg) ![](images/trumppp1.jpg)
+
+**** [Death Calls ](http://archangelstv.com/11.pfd)**
 
 Jesus has already returned to take the Rightous to the NEW EARTH.
 He will revel Himself when He is ready.
@@ -24,7 +28,7 @@ Now the Angels make war on the Republicans. They use the weapon they have been u
 The Cavvines only work for a short while then the Corvid mutates bringing death and suffering to the Repub;ican Party 
 and all it's members a lttle at a time.
 
-     15 million will die by the end of this year.
+     A million will die by the end of this year.
      
      60 million will pass from the virus by the end of next year.
      
