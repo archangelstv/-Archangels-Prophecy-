@@ -7,26 +7,7 @@ Archangels  T V
 Articles
 
 
-January 7, 2021
 
-
-     15 million will die by the end of this year.
-     
-     60 million will pass from the virus by the end of next year.
-     
-     120 million by the end of the following year.
-     
-     It doesn't stop there.
-     
-     The Democrats are effected very little. Because the Angels have taken care to mutate the virus in a way to protect them.
-     
-
-
-Today is November 8th 2020
-the time has come for Death to begin His stroll across the U.S.
-He is going to take Americans by the Tens of Millions starting in the Western part of the country.
-For the next three years and more. Taking and taking from the US and accross the globe as well.
-Trump, Harris and Biden as well.
 
 ![](images/trumpp.jpg) ![](images/trumppp1.jpg)
 
