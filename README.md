@@ -8,7 +8,7 @@ Articles
 
 ![](images/netanyahu-head.jpg)
 
-**** [Benjamin-Netanyahu100](http://archangelstv.com/NewSite/Benjamin-Netanyahu100.html)***
+**** [Benjamin-Netanyahu](http://archangelstv.com/NewSite/Benjamin-Netanyahu100.html)***
 
 Death Calls
 
