@@ -6,7 +6,7 @@ Archangels  T V
 
 Articles
 
-![](images/netanyahu-head.png)
+![](images/netanyahu-head.jpg)
 
 **** [Benjamin-Netanyahu100](http://archangelstv.com/NewSite/Benjamin-Netanyahu100.html)***
 
