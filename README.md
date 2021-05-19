@@ -6,7 +6,9 @@ Archangels  T V
 
 Articles
 
+![](images/logo_main.png)
 
+**** [Death Calls](http://archangelstv.com/NewSite/Benjamin-Netanyahu100.html)***
 
 Death Calls
 
