@@ -6,6 +6,12 @@ Archangels  T V
 
 Articles
 
+![](images/deathhood1.jpg) 
+
+**** [Death Calls](http://archangelstv.com/NewSite/DeathCalls(1).html)***
+
+
+
 ![](images/netanyahu-head.jpg)
 
 **** [Benjamin-Netanyahu](http://archangelstv.com/NewSite/Benjamin-Netanyahu100.html)***
