@@ -8,8 +8,7 @@ Articles
 
 ![](images/deathhood1.jpg) 
 
-**** [Death Calls](http://archangelstv.com/NewSite/DeathCalls(1).html)***
-
+**** [Death Calls](http://archangelstv.com/NewSite/peopleofearth.html)***
 
 
 ![](images/netanyahu-head.jpg)
