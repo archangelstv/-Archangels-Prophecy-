@@ -6,7 +6,7 @@ Archangels  T V
 
 Articles
 
-![](images/predictions2.jpg) 
+![](future/future1.jpg) 
 
 **** [The Future](http://archangelstv.com/future/peopleofearth.html)***
 
