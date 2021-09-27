@@ -6,9 +6,9 @@ Archangels  T V
 
 Articles
 
-![](images/deathhood1.jpg) 
+![](images/predictions2.jpg) 
 
-**** [The Future](http://archangelstv.com/NewSite/peopleofearth.html)***
+**** [The Future](http://archangelstv.com/future/peopleofearth.html)***
 
 ![](images/deathhood1.jpg) 
 
