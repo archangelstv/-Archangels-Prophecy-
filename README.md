@@ -5,6 +5,14 @@
 Archangels  T V
 
 Articles
+Danger! New covid 19 Strain
+This one will kill over half of the People of America and also the remainder of the Whole World
+bad News for every one
+It's coming
+They tell me it will be here very soon
+Today is October  7 2021
+This is from the people who controll the world- You know who
+
 
 ![](future/future1.jpg) 
 
