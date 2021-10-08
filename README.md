@@ -6,7 +6,7 @@ Archangels  T V
 
 Articles
 Danger! New covid 19 Strain
-This one will kill over half of the People of America and also the remainder of the Whole World
+This one will kill over half of the People of America and also half the remainder of the Whole World
 bad News for every one
 It's coming
 They tell me it will be here very soon
