@@ -18,7 +18,7 @@ Update- Dec3 2021 It's Here
 Omicron-- Future COVID-19 Variants
 This is the dreaded most deadly one to evolve into the world destroyer. In about two weeks the awful strain will will be spreading throughout this planet. One week before Christmas the daily death toll will approach a million souls worldwide.
 Shots or not this very quick killer calls on Death himself to start taking their souls to HELL. Nothing can stop him. It takes about 3 years to take over half of the worlds People. Beware those of many blood types except Type "O". The only safe one.
-
+The AAngels of Life will stand at the doors of the "Type O Positive"
 This is the "Day of Judgement" From the Bible
 
 ![](future/future1.jpg) 
