@@ -21,6 +21,10 @@ Shots or not this very quick killer calls on Death himself to start taking their
 The AAngels of Life will stand at the doors of the "Type O Positive"
 This is the "Day of Judgement" From the Bible
 
+Update- Dec 10 2021     Heard
+    South Africa, One is incerted with the deadly Covid 19. now it spreads. 
+    China First--Then America, their military, then their goverment, then their Blacks, Republicans, Gayes and so on.
+
 ![](future/future1.jpg) 
 
 **** [The Future](http://archangelstv.com/future/The Future.zip.html)***
