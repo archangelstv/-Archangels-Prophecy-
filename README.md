@@ -121,7 +121,7 @@ The new COVID-19 vaccine given to those to inhibate the virus will cause Sterilt
 
 **** [Stonehenge](http://archangelstv.com/NewSite/Stoneheng/index.html)
 
-![](images/Belicamp4.jpg)    
+![](images/belicamp.jpg)    
 
 **** [bomb](http://archangelstv.com/NewSite/bomb/bomb.html)
 
